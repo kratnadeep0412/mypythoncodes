@@ -1,0 +1,15 @@
+def Display():
+    print("Programming Languages:")
+    print("1. Python")
+    print("2. Java")
+    print("3. C++")
+    print("4. C#")
+    print("5. JavaScript")
+    print("6. Ruby")
+
+Display()
+Display()
+Display()
+Display()
+Display()
+Display()
